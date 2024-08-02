@@ -1,2 +1,2 @@
 # TerminalKiller-ReactComponentsResources
-Library of React components for developers
+Library of React components for TerminalKiller Project developers
